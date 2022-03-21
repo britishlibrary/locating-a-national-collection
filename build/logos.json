@@ -1,0 +1,41 @@
+{
+	"ptitle": "Project Investigators",
+	"stitle": "Project Partners",
+	"images": {
+		"The British Library": {
+			"logo": "graphics/BritishLibrary.svg_.png",
+			"link": "https://www.bl.uk/",
+			"level": "primary"
+		},
+		"The National Trust": {
+			"logo": "graphics/",
+			"link": "",
+			"level": "primary"
+		},
+		"Historic Royal Palaces": {
+			"logo": "graphics/",
+			"link": "",
+			"level": "primary"
+		},
+		"University of Exeter": {
+			"logo": "graphics/",
+			"link": "",
+			"level": "primary"
+		},
+		"Historic England": {
+			"logo": "graphics/",
+			"link": "",
+			"level": "secondary"
+		},
+		"Historic Environment Scotland": {
+			"logo": "graphics/",
+			"link": "",
+			"level": "secondary"
+		},
+		"Museum of London Archaeology": {
+			"logo": "graphics/",
+			"link": "https://www.mola.org.uk/",
+			"level": "secondary"
+		}
+	}
+}
