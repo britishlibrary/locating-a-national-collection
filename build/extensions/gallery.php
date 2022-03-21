@@ -33,7 +33,7 @@ function extensionGallery ($d, $pd)
 			ob_start();
       echo <<<END
     <div class="col-lg-3 col-md-4 col-6">
-      <a href="$a[link]" class="d-block mb-4 h-100">
+      <a href="$a[link]" title="$n" class="d-block mb-4 h-100">
         <img class="img-fluid img-thumbnail $a[level] mx-auto d-block"
 				  src="$a[logo]" alt="$n">
       </a>
