@@ -22,6 +22,11 @@
       "link":"https://www.exeter.ac.uk/",
       "level":"primary"
     },
+    "English Heritage":{
+      "logo":"graphics/English-Heritage-logo.svg.png",
+      "link":"http://www.english-heritage.org.uk/",
+      "level":"secondary"
+    },
     "Historic England":{
       "logo":"graphics/HE-logo.svg",
       "link":"https://historicengland.org.uk/",
@@ -35,6 +40,11 @@
     "Museum of London Archaeology":{
       "logo":"graphics/MOLA-logo.png",
       "link":"https://www.mola.org.uk/",
+      "level":"secondary"
+    },
+    "Portable Antiquities Scheme":{
+      "logo":"graphics/PAS-logo.jpg",
+      "link":"https://finds.org.uk/",
       "level":"secondary"
     }
   }
