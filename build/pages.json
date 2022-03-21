@@ -29,6 +29,24 @@
     "content":"",
     "content right":""
   },
+  "software":{
+    "displayName": "Software",
+    "title":"<b>Locating a National Collection - Software</b>",
+    "content":"",
+    "content right":""
+  },
+  "Locolligo":{
+    "parent": "software",
+    "title":"<b>Locating a National Collection - Locolligo</b>",
+    "content":"",
+    "content right":""
+  },
+  "Peripleo":{
+    "parent": "software",
+    "title":"<b>Locating a National Collection - Peripleo</b>",
+    "content":"",
+    "content right":""
+  },
   "resources":{
     "displayName": "Resources",
     "title":"<b>Locating a National Collection - Resources</b>",
