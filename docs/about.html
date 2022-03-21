@@ -17,6 +17,19 @@
 	<link href="css/main.css" rel="stylesheet" type="text/css">
     <style>
     
+img.primary, img.secondary {
+  display: block;
+  max-width:230px;
+  max-height:128px;
+  width: auto;
+  height: auto;
+	border: 0px solid black;
+	}
+	
+img.secondary{
+  max-width:192px;
+  max-height:96px;
+	}
     </style>
     
   </head>
@@ -48,61 +61,14 @@
 <!-- End Normal Item 1 -->
 
 <!-- Start Normal Item 2 -->
-<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="howto.html">How To</a>
+<li class="nav-item active"><a class="nav-link" style="white-space:nowrap;" href="about.html">About<span class="sr-only">(current)</span></a>
 </li>
 <!-- End Normal Item 2 -->
 
-<!-- Start Loop Item 3 -->
-<li class="nav-item dropdown ">
-<div class="btn-group"><a href="documentation.html" class="nav-link" style="white-space:nowrap;" title="Click to open the &ldquo;Documentation&rdquo; page">
-  Documentation</a><button type="button" class="btn nav-link dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false"  title="Click to open the &ldquo;Documentation&rdquo; menu">
-    <span class="visually-hidden">Toggle Dropdown</span>
-  </button>
-	<ul class="dropdown-menu"><!-- Dropdown Loop 3-1 --><li class="dropdown-submenu">
-		<a id="dropdownMenu3-1" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle" title="Click to open the &ldquo;JSON Files&rdquo; menu">JSON Files
-		&nbsp;&nbsp;<i class="fas fa-caret-right"></i></a>
-		
-		<ul aria-labelledby="dropdownMenu3-1" class="dropdown-menu border-0 shadow">
-			<li><a href="json.html" class="dropdown-item  top-item" title="Click to open the &ldquo;JSON Files&rdquo; page">
-				JSON Files</a></li>
-		<li class="dropdown-divider"></li><li><a href="site.json.html" class="dropdown-item">Site.json</a></li><li><a href="pages.json.html" class="dropdown-item">Pages.json</a></li></ul></li><!-- End Loop 3-1 --><!-- Dropdown Loop 3-2 --><li class="dropdown-submenu">
-		<a id="dropdownMenu3-2" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle" title="Click to open the &ldquo;Extensions&rdquo; menu">Extensions
-		&nbsp;&nbsp;<i class="fas fa-caret-right"></i></a>
-		
-		<ul aria-labelledby="dropdownMenu3-2" class="dropdown-menu border-0 shadow">
-			<li><a href="extensions.html" class="dropdown-item  top-item" title="Click to open the &ldquo;Extensions&rdquo; page">
-				Extensions</a></li>
-		<li class="dropdown-divider"></li><li><a href="timeline.html" class="dropdown-item">Timeline</a></li><li><a href="lists.html" class="dropdown-item">Galleries and Lists</a></li><li><a href="mirador-viewer.html" class="dropdown-item">Mirador IIIF viewer</a></li><li><a href="panel-truck-viewer.html" class="dropdown-item">Panel Truck Viewer</a></li><li><a href="curtain-viewer.html" class="dropdown-item">Curtain Viewer</a></li><li><a href="openseadragon-viewer.html" class="dropdown-item">OpenSeadragon Viewer</a></li></ul></li><!-- End Loop 3-2 --><!-- Dropdown Loop 3-3 --><li class="dropdown-submenu">
-		<a id="dropdownMenu3-3" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle" title="Click to open the &ldquo;Template&rdquo; menu">Template
-		&nbsp;&nbsp;<i class="fas fa-caret-right"></i></a>
-		
-		<ul aria-labelledby="dropdownMenu3-3" class="dropdown-menu border-0 shadow">
-			<li><a href="template.html" class="dropdown-item  top-item" title="Click to open the &ldquo;Template&rdquo; page">
-				Template</a></li>
-		<li class="dropdown-divider"></li><!-- Dropdown Loop 3-3-1 --><li class="dropdown-submenu">
-		<a id="dropdownMenu3-3-1" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle" title="Click to open the &ldquo;Example Home&rdquo; menu">Example Home
-		&nbsp;&nbsp;<i class="fas fa-caret-right"></i></a>
-		
-		<ul aria-labelledby="dropdownMenu3-3-1" class="dropdown-menu border-0 shadow">
-			<li><a href="template-home.html" class="dropdown-item  top-item" title="Click to open the &ldquo;Example Home&rdquo; page">
-				Example Home</a></li>
-		<li class="dropdown-divider"></li><!-- Dropdown Loop 3-3-1-1 --><li class="dropdown-submenu">
-		<a id="dropdownMenu3-3-1-1" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle" title="Click to open the &ldquo;Nice display pagename&rdquo; menu">Nice display pagename
-		&nbsp;&nbsp;<i class="fas fa-caret-right"></i></a>
-		
-		<ul aria-labelledby="dropdownMenu3-3-1-1" class="dropdown-menu border-0 shadow">
-			<li><a href="example-subpage-01.html" class="dropdown-item  top-item" title="Click to open the &ldquo;Nice display pagename&rdquo; page">
-				Nice display pagename</a></li>
-		<li class="dropdown-divider"></li><li><a href="example-sub-subpage-01.html" class="dropdown-item">Great webpage name</a></li></ul></li><!-- End Loop 3-3-1-1 --><li><a href="mirador-example.html" class="dropdown-item">A Mirador Viewer</a></li><li><a href="example-subpage-02.html" class="dropdown-item">An Example List</a></li></ul></li><!-- End Loop 3-3-1 --></ul></li><!-- End Loop 3-3 -->
-	</ul>
-</div>
+<!-- Start Normal Item 3 -->
+<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="resources.html">Resources</a>
 </li>
-<!-- End Loop Item 3 -->
-
-<!-- Start Normal Item 4 -->
-<li class="nav-item active"><a class="nav-link" style="white-space:nowrap;" href="about.html">About<span class="sr-only">(current)</span></a>
-</li>
-<!-- End Normal Item 4 -->
+<!-- End Normal Item 3 -->
 </ul><span class="navbar-text w-100">			<a href="https://github.com/britishlibrary/locating-a-national-collection/" class="float-end">
 				<img id="ex-logo1" class="logo" title="github" src="graphics/github%20logo%20white.png" 
 				style="" alt="GitHub Locating a National Collection"/>
@@ -117,62 +83,47 @@
 					
 <!-- Start SimpleBDGrid -->
 <div class="p-2 bg-light border rounded-3 jumbotron">
-      <div class="container-fluid py-2"><h3 style="margin-bottom:0px;">Simple Site - <b>About</b></h3></div></div><div class="container-fluid "><div class="row h-100"><div class="col-12">							
+      <div class="container-fluid py-2"><h3 style="margin-bottom:0px;"><b>Locating a National Collection - Contributors</b></h3></div></div><div class="container-fluid "><div class="row h-100"><div class="col-12">							
 								<div class="h-100 d-flex flex-column">
 							
 						</div></div><!--/span--></div></div><!--/row-->    <div class="container-fluid "><div class="row h-100"><div class="col-12 flex-grow-1">							
 								<div class="h-100 d-flex flex-column">
-							<div class="alert alert-info" role="alert"><h4>Simple Site Collaborations</h4><p>The Simple Site project has developed out of work from a number of different projects, all of which involved some aspect of developing project websites, or documented methods of disseminating formatted data. This work will continue across the listed projects but further collaborations are anticipated.</p></div>
-
-<h3>Acknowledgement</h3>
-
-<p>This project has been directly supported by the following projects:</p>
-
-<h4>The SSHOC Project</h4>
-<figure class="figure">	
-  <img style="height:64px;" src="graphics/sshoc-logo.png" class="figure-img img-fluid rounded" alt="The SSHOC Project">
-  <img style="height:32px;" src="graphics/sshoc-eu-tag2.png" class="figure-img img-fluid rounded" alt="The SSHOC Project">
-  <figcaption class="figure-caption">Social Sciences & Humanities Open Cloud (SSHOC)is a project funded by the EU framework programme Horizon 2020 and unites <a href='https://www.sshopencloud.eu/partners'>20 partner organisations and their 27 associates</a> in developing the social sciences and humanities area of the <a href='http://www.eosc-portal.eu/'>European Open Science Cloud (EOSC)</a> - <a href='https://www.sshopencloud.eu/'>SSHOC</a></figcaption>
-</figure>
-
-<h4>The ARTICT Project</h4>
-<figure class="figure">
-  <img style="height:64px;" src="graphics/UKRI_EPSR_Council-Logo_Horiz-RGB.png" class="figure-img img-fluid rounded" alt="The ARTICT Project">
-  <figcaption class="figure-caption">EPSRC funded - ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings - <a href='https://research.ng-london.org.uk/external/ARTICT'>ARTICT</a></figcaption>
-</figure>
-
-<h4>The IIIF - TANC Project</h4>
-<figure class="figure">
-  <img style="height:64px;" src="graphics/TANC%20-%20IIIF.png" class="figure-img img-fluid rounded" alt="IIIF - TANC">
-  <figcaption class="figure-caption">AHRC funded - IIIF-TNC | Practical applications of IIIF as a building block towards a digital National Collection -   <a href='https://tanc-ahrc.github.io/IIIF-TNC'>IIIF - TNC</a></figcaption>
-</figure>
-
-<h4>The HeritagePIDs Project</h4>
-<figure class="figure">
-  <img style="height:64px;" src="graphics/TANC%20-%20PIDS.png" class="figure-img img-fluid rounded" alt="PIDS - TANC">
-  <figcaption class="figure-caption">AHRC funded - HeritagePIDs | Persistent Identifiers as IRO Infrastructure - <a href='https://tanc-ahrc.github.io/HeritagePIDs'>HeritagePIDs</a></figcaption>
-</figure><div class="foonote"><ul></ul></div>
-						</div></div><!--/span--></div></div><!--/row-->    <div class="container-fluid "><div class="row h-100"><div class="col-12 col-lg-12">							
-								<div class="h-100 d-flex flex-column">
-								<hr/>
-	<details>
-	<summary>Display the full code used to define this page.</summary>
-	<br/>
-		<h3>Page JSON Object</h3>
-	<figure>
-		<pre class="json-renderer" style="overflow-y: auto;overflow-x: auto; border: 2px solid black;padding: 10px;max-height:400px;"><code>{
-    &quot;parent&quot;: &quot;&quot;,
-    &quot;class&quot;: &quot;&quot;,
-    &quot;file&quot;: &quot;&quot;,
-    &quot;title&quot;: &quot;Simple Site - &lt;b&gt;About&lt;/b&gt;&quot;,
-    &quot;content&quot;: &quot;&lt;div class=\&quot;alert alert-info\&quot; role=\&quot;alert\&quot;&gt;&lt;h4&gt;Simple Site Collaborations&lt;/h4&gt;&lt;p&gt;The Simple Site project has developed out of work from a number of different projects, all of which involved some aspect of developing project websites, or documented methods of disseminating formatted data. This work will continue across the listed projects but further collaborations are anticipated.&lt;/p&gt;&lt;/div&gt;\r\n\r\n&lt;h3&gt;Acknowledgement&lt;/h3&gt;\r\n\r\n&lt;p&gt;This project has been directly supported by the following projects:&lt;/p&gt;\r\n\r\n&lt;h4&gt;The SSHOC Project&lt;/h4&gt;\r\n&lt;figure class=\&quot;figure\&quot;&gt;\t\r\n  &lt;img style=\&quot;height:64px;\&quot; src=\&quot;graphics/sshoc-logo.png\&quot; class=\&quot;figure-img img-fluid rounded\&quot; alt=\&quot;The SSHOC Project\&quot;&gt;\r\n  &lt;img style=\&quot;height:32px;\&quot; src=\&quot;graphics/sshoc-eu-tag2.png\&quot; class=\&quot;figure-img img-fluid rounded\&quot; alt=\&quot;The SSHOC Project\&quot;&gt;\r\n  &lt;figcaption class=\&quot;figure-caption\&quot;&gt;Social Sciences &amp; Humanities Open Cloud (SSHOC)is a project funded by the EU framework programme Horizon 2020 and unites [20 partner organisations and their 27 associates|https://www.sshopencloud.eu/partners] in developing the social sciences and humanities area of the [European Open Science Cloud (EOSC)|http://www.eosc-portal.eu/] - [SSHOC|https://www.sshopencloud.eu/]&lt;/figcaption&gt;\r\n&lt;/figure&gt;\r\n\r\n&lt;h4&gt;The ARTICT Project&lt;/h4&gt;\r\n&lt;figure class=\&quot;figure\&quot;&gt;\r\n  &lt;img style=\&quot;height:64px;\&quot; src=\&quot;graphics/UKRI_EPSR_Council-Logo_Horiz-RGB.png\&quot; class=\&quot;figure-img img-fluid rounded\&quot; alt=\&quot;The ARTICT Project\&quot;&gt;\r\n  &lt;figcaption class=\&quot;figure-caption\&quot;&gt;EPSRC funded - ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings - [ARTICT|https://research.ng-london.org.uk/external/ARTICT]&lt;/figcaption&gt;\r\n&lt;/figure&gt;\r\n\r\n&lt;h4&gt;The IIIF - TANC Project&lt;/h4&gt;\r\n&lt;figure class=\&quot;figure\&quot;&gt;\r\n  &lt;img style=\&quot;height:64px;\&quot; src=\&quot;graphics/TANC%20-%20IIIF.png\&quot; class=\&quot;figure-img img-fluid rounded\&quot; alt=\&quot;IIIF - TANC\&quot;&gt;\r\n  &lt;figcaption class=\&quot;figure-caption\&quot;&gt;AHRC funded - IIIF-TNC | Practical applications of IIIF as a building block towards a digital National Collection -   [IIIF - TNC|https://tanc-ahrc.github.io/IIIF-TNC]&lt;/figcaption&gt;\r\n&lt;/figure&gt;\r\n\r\n&lt;h4&gt;The HeritagePIDs Project&lt;/h4&gt;\r\n&lt;figure class=\&quot;figure\&quot;&gt;\r\n  &lt;img style=\&quot;height:64px;\&quot; src=\&quot;graphics/TANC%20-%20PIDS.png\&quot; class=\&quot;figure-img img-fluid rounded\&quot; alt=\&quot;PIDS - TANC\&quot;&gt;\r\n  &lt;figcaption class=\&quot;figure-caption\&quot;&gt;AHRC funded - HeritagePIDs | Persistent Identifiers as IRO Infrastructure - [HeritagePIDs|https://tanc-ahrc.github.io/HeritagePIDs]&lt;/figcaption&gt;\r\n&lt;/figure&gt;&quot;,
-    &quot;content right&quot;: &quot;&quot;,
-    &quot;copy&quot;: false,
-    &quot;displaycode&quot;: true
-}</code></pre>
-		<figcaption class="figure-caption">The complete JSON object used to define this content and layout of this page.</figcaption>
-	</figure>	
-	</details>
+							<p>This project is a Foundation project within the <a href="https://ahrc.ukri.org/">AHRC</a> funded <a href="https://ahrc.ukri.org/research/fundedthemesandprogrammes/tanc-opening-uk-heritage-to-the-world/">Towards a National Collection Programme</a>.</p><h3>Project Investigators</h3><div class="row text-center text-lg-left">    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.bl.uk/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail primary mx-auto d-block"
+				  src="graphics/BritishLibrary.svg_.png" alt="The British Library">
+      </a>
+    </div>    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.nationaltrust.org.uk/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail primary mx-auto d-block"
+				  src="graphics/National-Trust-logo.svg" alt="The National Trust">
+      </a>
+    </div>    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.hrp.org.uk/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail primary mx-auto d-block"
+				  src="graphics/HRP-logo.svg" alt="Historic Royal Palaces">
+      </a>
+    </div>    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.exeter.ac.uk/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail primary mx-auto d-block"
+				  src="graphics/University-of-Exeter-logo.png" alt="University of Exeter">
+      </a>
+    </div></div><h3>Project Partners</h3><div class="row text-center text-lg-left">    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://historicengland.org.uk/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail secondary mx-auto d-block"
+				  src="graphics/HE-logo.svg" alt="Historic England">
+      </a>
+    </div>    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.historicenvironment.scot/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail secondary mx-auto d-block"
+				  src="graphics/HES-logo.svg" alt="Historic Environment Scotland">
+      </a>
+    </div>    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.mola.org.uk/" class="d-block mb-4 h-100">
+        <img class="img-fluid img-thumbnail secondary mx-auto d-block"
+				  src="graphics/MOLA-logo.png" alt="Museum of London Archaeology">
+      </a>
+    </div></div><div class="foonote"><ul></ul></div>
 						</div></div><!--/span--></div></div><!--/row-->    
 <!-- End SimpleBDGrid -->
 
