@@ -1,41 +1,41 @@
 {
-	"ptitle": "Project Investigators",
-	"stitle": "Project Partners",
-	"images": {
-		"The British Library": {
-			"logo": "graphics/BritishLibrary.svg_.png",
-			"link": "https://www.bl.uk/",
-			"level": "primary"
-		},
-		"The National Trust": {
-			"logo": "graphics/National-Trust-logo.svg",
-			"link": "https://www.nationaltrust.org.uk/",
-			"level": "primary"
-		},
-		"Historic Royal Palaces": {
-			"logo": "graphics/HRP-logo.svg",
-			"link": "https://www.hrp.org.uk/",
-			"level": "primary"
-		},
-		"University of Exeter": {
-			"logo": "graphics/University-of-Exeter-logo.png",
-			"link": "https://www.exeter.ac.uk/",
-			"level": "primary"
-		},
-		"Historic England": {
-			"logo": "graphics/HE-logo.svg",
-			"link": "https://historicengland.org.uk/",
-			"level": "secondary"
-		},
-		"Historic Environment Scotland": {
-			"logo": "graphics/HES-logo.svg",
-			"link": "https://www.historicenvironment.scot/",
-			"level": "secondary"
-		},
-		"Museum of London Archaeology": {
-			"logo": "graphics/MOLA-logo.png",
-			"link": "https://www.mola.org.uk/",
-			"level": "secondary"
-		}
-	}
+  "ptitle":"Project Investigators",
+  "stitle":"Project Partners",
+  "images":{
+    "The British Library":{
+      "logo":"graphics/BritishLibrary.svg_.png",
+      "link":"https://www.bl.uk/",
+      "level":"primary"
+    },
+    "The National Trust":{
+      "logo":"graphics/National-Trust-logo.svg",
+      "link":"https://www.nationaltrust.org.uk/",
+      "level":"primary"
+    },
+    "Historic Royal Palaces":{
+      "logo":"graphics/HRP-logo.svg",
+      "link":"https://www.hrp.org.uk/",
+      "level":"primary"
+    },
+    "University of Exeter":{
+      "logo":"graphics/University-of-Exeter-logo.png",
+      "link":"https://www.exeter.ac.uk/",
+      "level":"primary"
+    },
+    "Historic England":{
+      "logo":"graphics/HE-logo.svg",
+      "link":"https://historicengland.org.uk/",
+      "level":"secondary"
+    },
+    "Historic Environment Scotland":{
+      "logo":"graphics/HES-logo.svg",
+      "link":"https://www.historicenvironment.scot/",
+      "level":"secondary"
+    },
+    "Museum of London Archaeology":{
+      "logo":"graphics/MOLA-logo.png",
+      "link":"https://www.mola.org.uk/",
+      "level":"secondary"
+    }
+  }
 }
