@@ -1,23 +1,27 @@
-	{
-		"metaDescription": "This project investigates how creating links between locations in different collections might open up new forms of research, engagement and interaction for different audiences.",
-		"metaKeywords": "Cultural Heritage, GIS, collections, locations, linked data, maps",
-		"metaAuthor": "Gethin Rees | gethin.rees@bl.uk | British Library | London UK | gethin.rees@bl.uk | www.bl.uk/",
-		"metaTitle": "Locating a National Collection",
-		"metaFavIcon": "https://www.ukri.org/ukri/includes/themes/ukri/images/favicon.ico",
-		"logo_link": "./",
-		"licence": "<a href='http://rightsstatements.org/vocab/InC-EDU/1.0/'><img height='16' alt='In Copyright - Educational Use Permitted' title='In Copyright - Educational Use Permitted' src='graphics/InC-EDU.dark-white-interior-blue-type.png'/></a><a rel='license' href='https://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>",
-		"logo_path": "graphics/TaNC-logo-rev-wh-RGB.png",
-		"footer": "<a href=\"https://ahrc.ukri.org/research/fundedthemesandprogrammes/tanc-opening-uk-heritage-to-the-world//\"><img alt=\"AHRC TANC\" style=\"border-width:0;height:31px;\" src=\"graphics/TANC_03.png\"></a>",
-		"extra_logos": {
-			"github": {
-				"link": "https://github.com/britishlibrary/locating-a-national-collection",
-				"logo": "graphics/github%20logo%20white.png",
-				"alt": "GitHub Locating a National Collection"
-			}
-		},
-		"extra_js_scripts": [],
-		"extra_css_scripts": [],
-		"extra_css": "",
-		"extra_js": "",
-		"GoogleAnalyticsID": false
-	}
+{
+  "metaDescription":"This project investigates how creating links between locations in different collections might open up new forms of research, engagement and interaction for different audiences.",
+  "metaKeywords":"Cultural Heritage, GIS, collections, locations, linked data, maps",
+  "metaAuthor":"Gethin Rees | gethin.rees@bl.uk | British Library | London UK | gethin.rees@bl.uk | www.bl.uk/",
+  "metaTitle":"Locating a National Collection",
+  "metaFavIcon":"https://www.ukri.org/ukri/includes/themes/ukri/images/favicon.ico",
+  "logo_link":"./",
+  "licence":"<a href='http://rightsstatements.org/vocab/InC-EDU/1.0/'><img height='16' alt='In Copyright - Educational Use Permitted' title='In Copyright - Educational Use Permitted' src='graphics/InC-EDU.dark-white-interior-blue-type.png'/></a><a rel='license' href='https://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>",
+  "logo_path":"graphics/TaNC-logo-rev-wh-RGB.png",
+  "footer":"<a href=\"https://ahrc.ukri.org/research/fundedthemesandprogrammes/tanc-opening-uk-heritage-to-the-world//\"><img alt=\"AHRC TANC\" style=\"border-width:0;height:31px;\" src=\"graphics/TANC_03.png\"></a>",
+  "extra_logos":{
+    "github":{
+      "link":"https://github.com/britishlibrary/locating-a-national-collection",
+      "logo":"graphics/github%20logo%20white.png",
+      "alt":"GitHub Locating a National Collection"
+    }
+  },
+  "extra_js_scripts":[
+    
+  ],
+  "extra_css_scripts":[
+    
+  ],
+  "extra_css":"",
+  "extra_js":"",
+  "GoogleAnalyticsID":false
+}
