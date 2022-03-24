@@ -8,8 +8,10 @@
   "maps":{
     "displayName": "Maps",
     "title":"<b>Locating a National Collection - Maps</b>",
-    "content":"",
+    "content":"Here is a selection of maps created in the course of the project:",
     "content right":""
+		"class": "list",
+		"file": "map-list.json",
   },
   "VisitPlus":{
     "parent": "maps",
