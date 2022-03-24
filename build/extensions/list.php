@@ -129,11 +129,11 @@ function extensionCards ($d, $pd)
 .card-img-top {
   width: auto;
   max-width: 100%;    
-  max-height:128px;
+  /* max-height:128px; */
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 .nodec:link, .nodec:visited, .nodec:hover, .nodec:active {
