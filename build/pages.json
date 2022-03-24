@@ -8,7 +8,7 @@
   "maps":{
     "displayName": "Maps",
     "title":"<b>Locating a National Collection - Maps</b>",
-    "content":"Here is a selection of maps created in the course of the project:",
+    "content":"<h2>Here is a selection of maps created in the course of the project:</h2>",
     "content right": "",
     "class": "list",
     "file": "map-list.json"
