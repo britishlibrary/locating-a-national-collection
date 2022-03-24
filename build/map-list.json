@@ -3,7 +3,7 @@
   "displaychecked":true,
   "tableofcontents":false,
   "groups":{
-    "Maps":{
+    "Choose a Map:":{
       "comment":"",
       "card":"image",
       "maxcols":3
@@ -12,7 +12,7 @@
   "list":[
     {
       "groups":[
-        "Maps"
+        "Choose a Map:"
       ],
       "ptitle":"VisitPlus",
       "stitle":"",
@@ -23,7 +23,7 @@
     },
     {
       "groups":[
-        "Maps"
+        "Choose a Map:"
       ],
       "ptitle":"Heritage for All",
       "stitle":"",
@@ -34,7 +34,7 @@
     },
     {
       "groups":[
-        "Maps"
+        "Choose a Map:"
       ],
       "ptitle":"Coins & Monasteries",
       "stitle":"",
@@ -45,7 +45,7 @@
     },
     {
       "groups":[
-        "Maps"
+        "Choose a Map:"
       ],
       "ptitle":"Hollar 1660",
       "stitle":"",
@@ -56,7 +56,7 @@
     },
     {
       "groups":[
-        "Maps"
+        "Choose a Map:"
       ],
       "ptitle":"The Travelling Bibles",
       "stitle":"",
