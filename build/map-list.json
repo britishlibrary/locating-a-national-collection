@@ -1,7 +1,7 @@
 {
   "defaultcard":"full",
   "displaychecked":true,
-  "tableofcontents":true,
+  "tableofcontents":false,
   "groups":{
     "Maps":{
       "comment":"",
