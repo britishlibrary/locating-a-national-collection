@@ -11,7 +11,7 @@
     "content":"Here is a selection of maps created in the course of the project:",
     "content right": "",
     "class": "list",
-    "file": "map-list.json",
+    "file": "map-list.json"
   },
   "VisitPlus":{
     "parent": "maps",
