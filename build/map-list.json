@@ -7,23 +7,29 @@
       "comment":"",
       "card":"image",
       "maxcols":3
+    },
+    "Full Card Test":{
+      "comment":"Full Card - This is a Group Comment",
+      "card":"full"
     }
   },
   "list":[
     {
       "groups":[
-        "Choose a Map:"
+        "Choose a Map:",
+        "Full Card Test"
       ],
       "ptitle":"VisitPlus",
-      "stitle":"",
-      "comment":"",
+      "stitle":"VisitPlus - this is a stitle example.",
+      "comment":"VisitPlus - this is a comment example.",
       "image":"graphics/VisitPlus.png",
       "checked":"",
       "link":"https://britishlibrary.github.io/locating-a-national-collection/VisitPlus.html"
     },
     {
       "groups":[
-        "Choose a Map:"
+        "Choose a Map:",
+        "Full Card Test"
       ],
       "ptitle":"Heritage for All",
       "stitle":"",
@@ -34,7 +40,8 @@
     },
     {
       "groups":[
-        "Choose a Map:"
+        "Choose a Map:",
+        "Full Card Test"
       ],
       "ptitle":"Coins & Monasteries",
       "stitle":"",
@@ -45,7 +52,8 @@
     },
     {
       "groups":[
-        "Choose a Map:"
+        "Choose a Map:",
+        "Full Card Test"
       ],
       "ptitle":"Hollar 1660",
       "stitle":"",
@@ -56,7 +64,8 @@
     },
     {
       "groups":[
-        "Choose a Map:"
+        "Choose a Map:",
+        "Full Card Test"
       ],
       "ptitle":"The Travelling Bibles",
       "stitle":"",
