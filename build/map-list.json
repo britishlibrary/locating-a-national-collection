@@ -8,6 +8,11 @@
       "card":"image",
       "maxcols":3
     },
+    "Simple Card Test":{
+      "comment":"Simple Card - This is a Group Comment",
+      "card":"simple",
+      "maxcols":3
+    },
     "Full Card Test":{
       "comment":"Full Card - This is a Group Comment",
       "card":"full"
@@ -17,7 +22,8 @@
     {
       "groups":[
         "Choose a Map:",
-        "Full Card Test"
+        "Full Card Test",
+        "Simple Card Test"
       ],
       "ptitle":"VisitPlus",
       "stitle":"VisitPlus - this is a stitle example.",
@@ -29,7 +35,8 @@
     {
       "groups":[
         "Choose a Map:",
-        "Full Card Test"
+        "Full Card Test",
+        "Simple Card Test"
       ],
       "ptitle":"Heritage for All",
       "stitle":"",
@@ -41,7 +48,8 @@
     {
       "groups":[
         "Choose a Map:",
-        "Full Card Test"
+        "Full Card Test",
+        "Simple Card Test"
       ],
       "ptitle":"Coins & Monasteries",
       "stitle":"",
@@ -53,7 +61,8 @@
     {
       "groups":[
         "Choose a Map:",
-        "Full Card Test"
+        "Full Card Test",
+        "Simple Card Test"
       ],
       "ptitle":"Hollar 1660",
       "stitle":"",
@@ -65,7 +74,8 @@
     {
       "groups":[
         "Choose a Map:",
-        "Full Card Test"
+        "Full Card Test",
+        "Simple Card Test"
       ],
       "ptitle":"The Travelling Bibles",
       "stitle":"",
