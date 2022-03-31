@@ -1,0 +1,69 @@
+{
+  "defaultcard":"full",
+  "displaychecked":true,
+  "tableofcontents":false,
+  "groups":{
+    "Choose a Map:":{
+      "comment":"",
+      "card":"simple",
+      "maxcols":3
+    }
+  },
+  "list":[
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
+      "ptitle":"VisitPlus",
+      "stitle":"",
+      "comment":"Visitor Sites in the UK",
+      "image":"graphics/VisitPlus.jpg",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/VisitPlus.html"
+    },
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
+      "ptitle":"Heritage for All",
+      "stitle":"",
+      "comment":"A mapped collection of heritage assets",
+      "image":"graphics/Heritage_for_All.png",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/Heritage_for_All.html"
+    },
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
+      "ptitle":"Coins & Monasteries",
+      "stitle":"",
+      "comment":"Early monasteries and ancient coin finds",
+      "image":"graphics/Coins_&_Monasteries.jpg",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/Coins_&_Monasteries.html"
+    },
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
+      "ptitle":"Hollar 1660",
+      "stitle":"",
+      "comment":"Mapped illustrations from an Early Modern gazetteer",
+      "image":"graphics/Hollar-1660.jpg",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/Hollar_1660.html"
+    },
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
+      "ptitle":"The Travelling Bibles",
+      "stitle":"",
+      "comment":"European journeys of Ceolfrith's Anglo-Saxon bibles",
+      "image":"graphics/The_Travelling_Bibles.png",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/The_Travelling_Bibles.html"
+    }
+  ]
+}
