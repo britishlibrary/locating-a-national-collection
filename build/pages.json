@@ -24,7 +24,7 @@
   "Heritage for All":{
     "parent": "maps",
     "title":"<b>Locating a National Collection - Heritage for All</b>",
-    "content":"<h2>Introduction</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://britishlibrary.github.io/peripleo-lanc/hfa/#/12.07/-0.0419/51.5011/facet=type\" title=\"VisitPlus\"></iframe></div><figcaption class=\"figure-caption\">VisitPlus: Visitor Sites in the UK.</figcaption></figure><h2>Suggested Tasks</h2><p>Here are some ideas for things you can try to do with this map:</p><ul><li>Task 1</li><li>Task 2</li><li>Task 3</li></ul><h2>Dataset Preparation</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><h2>Points Raised</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+    "content":"<h2>Introduction</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://britishlibrary.github.io/peripleo-lanc/hfa/#/13.16/-0.0248/51.5029/mode=points+facet=organisation\" title=\"VisitPlus\"></iframe></div><figcaption class=\"figure-caption\">VisitPlus: Visitor Sites in the UK.</figcaption></figure><h2>Suggested Tasks</h2><p>Here are some ideas for things you can try to do with this map:</p><ul><li>Task 1</li><li>Task 2</li><li>Task 3</li></ul><h2>Dataset Preparation</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><h2>Points Raised</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
     "content right":""
   },
   "Coins & Monasteries":{
