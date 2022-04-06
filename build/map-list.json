@@ -36,6 +36,17 @@
       "groups":[
         "Choose a Map:"
       ],
+      "ptitle":"Heritage for All",
+      "stitle":"",
+      "comment":"A mapped collection of heritage assets",
+      "image":"graphics/HfA.jpg",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/Heritage_for_All.html"
+    },
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
       "ptitle":"Hollar 1660",
       "stitle":"",
       "comment":"Mapped illustrations from an Early Modern gazetteer",
