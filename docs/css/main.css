@@ -91,6 +91,13 @@ pre code {
   }
 }
 
+div.row.h-100 > div:not(:first-of-type) {
+   border: 1px solid #dee2e6 !important;
+   padding: 0.5rem !important;
+   background-color: #f8f9fa !important;
+   border-radius: 0.3rem !important;
+}
+
 @media (min-width: 992px) {
    div.row.h-100 > div {
       width: 30%!important;
