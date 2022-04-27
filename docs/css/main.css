@@ -91,6 +91,15 @@ pre code {
   }
 }
 
+@media (min-width: 992px, min-width: 768px) {
+   div.row.h-100 > div {
+      width: 30%!important;
+   }
+   div.row.h-100 > div:first-of-type {
+      width: 70%!important;
+   }
+}
+
 /* ******************************************* */
 
 html,
