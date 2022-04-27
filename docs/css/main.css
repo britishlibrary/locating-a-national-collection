@@ -91,7 +91,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px, min-width: 768px) {
+@media (min-width: 992px) {
    div.row.h-100 > div {
       width: 30%!important;
    }
