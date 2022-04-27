@@ -22,6 +22,11 @@ img.logo {
 	height:32px;
 	}
 
+img.logo-mini {
+	height:1rem;
+	padding-right:0.3rem;
+	}
+
 pre code {
   overflow-x: auto;
   white-space: pre-wrap;
