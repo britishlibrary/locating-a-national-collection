@@ -97,6 +97,7 @@ div.row.h-100 > div:not(:first-of-type) {
    background-color: #f8f9fa !important;
    border-radius: 0.3rem !important;
    height: fit-content !important;
+   font-size: .85rem !important;
 }
 
 @media (min-width: 992px) {
