@@ -9,6 +9,11 @@
   "logo_path":"graphics/TaNC-logo-rev-wh-RGB.png",
   "footer":"<a href=\"https://ahrc.ukri.org/research/fundedthemesandprogrammes/tanc-opening-uk-heritage-to-the-world//\"><img alt=\"AHRC TANC\" style=\"border-width:0;height:31px;\" src=\"graphics/TANC_03.png\"></a>",
   "extra_logos":{
+    "AHRC":{
+      "link":"https://www.ukri.org/councils/ahrc/",
+      "logo":"graphics/UKRI_AHR_Council-Logo_Horiz-RGB.png",
+      "alt":"Arts and Humanities Research Council"
+    }
     "github":{
       "link":"https://github.com/britishlibrary/locating-a-national-collection",
       "logo":"graphics/github%20logo%20white.png",
