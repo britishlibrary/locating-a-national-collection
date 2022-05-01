@@ -11,13 +11,8 @@
   "extra_logos":{
     "AHRC":{
       "link":"https://www.ukri.org/councils/ahrc/",
-      "logo":"graphics/UKRI_AHR_Council-Logo_Horiz-RGB.png",
+      "logo":"graphics/UKRI_AHR_Council-Logo_Horiz-RGB-white.png",
       "alt":"Arts and Humanities Research Council"
-    },
-    "github":{
-      "link":"https://github.com/britishlibrary/locating-a-national-collection",
-      "logo":"graphics/github%20logo%20white.png",
-      "alt":"GitHub Locating a National Collection"
     }
   },
   "extra_js_scripts":[
