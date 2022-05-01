@@ -1,6 +1,5 @@
 {
-  "ptitle":"Project Investigators",
-  "stitle":"Project Partners",
+  "ptitle":"Project Partners",
   "images":{
     "The British Library":{
       "logo":"graphics/BritishLibrary.svg_.png",
@@ -17,35 +16,30 @@
       "link":"https://www.hrp.org.uk/",
       "level":"primary"
     },
-    "University of Exeter":{
-      "logo":"graphics/University-of-Exeter-logo.png",
-      "link":"https://www.exeter.ac.uk/",
-      "level":"primary"
-    },
     "English Heritage":{
       "logo":"graphics/English-Heritage-logo.svg.png",
       "link":"http://www.english-heritage.org.uk/",
-      "level":"secondary"
+      "level":"primary"
     },
     "Historic England":{
       "logo":"graphics/HE-logo.svg",
       "link":"https://historicengland.org.uk/",
-      "level":"secondary"
+      "level":"primary"
     },
     "Historic Environment Scotland":{
       "logo":"graphics/HES-logo.svg",
       "link":"https://www.historicenvironment.scot/",
-      "level":"secondary"
+      "level":"primary"
     },
     "Museum of London Archaeology":{
       "logo":"graphics/MOLA-logo.png",
       "link":"https://www.mola.org.uk/",
-      "level":"secondary"
+      "level":"primary"
     },
     "Portable Antiquities Scheme":{
       "logo":"graphics/PAS-logo.jpg",
       "link":"https://finds.org.uk/",
-      "level":"secondary"
+      "level":"primary"
     }
   }
 }
