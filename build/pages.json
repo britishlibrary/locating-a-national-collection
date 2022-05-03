@@ -48,6 +48,12 @@
   "software":{
     "displayName": "Software",
     "title":"<b>Locating a National Collection - Software</b>",
+    "content":"<p>It was realised at an early stage of the project that the availability of software tools that would be simple both to implement and to use is a fundamental requirement for heritage organisations wishing to provide visualisations and rich-linking of their geospatial data.</p><ul></li>The first requirement - a general-purpose mapping tool - has been met by the major re-development of <a target=\"_blank\" href=\"https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html\"><i>Peripleo</i></a>.</li><li>Development of Peripleo led to the understanding that no pre-existing <i>standard</i> data model meets fully the project’s requirements of flexibility and extensibility. This led to a series of proposals for the extension of <a target=\"_blank\" href=\"https://britishlibrary.github.io/locating-a-national-collection/Linked_Places_Format.html\"><i>Linked Places Format</i></a> (LPF), itself an extension and amalgamation of established standards such as GeoJSON.</li><li>The final part of the jigsaw is <a target=\"_blank\" href=\"https://britishlibrary.github.io/locating-a-national-collection/Locolligo.html\"><i>Locolligo</i></a>, a newly-conceived software tool which has two main functions:<ol><li>The conversion to LPF of simple delimited-text data such as ‘comma-separated values’ (CSV), familiar to users of spreadsheet software.</li><li>The embedded linking of LPF datasets to other web resources.</li></ol></ul>",
+    "content right":""
+  },
+  "Linked Places Format (LPF)":{
+    "parent": "software",
+    "title":"<b>Locating a National Collection - Linked Places Format</b>",
     "content":"",
     "content right":""
   },
