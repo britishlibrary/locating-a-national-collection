@@ -2,7 +2,7 @@
   "ptitle":"Project Partners",
   "images":{
     "The British Library":{
-      "logo":"graphics/BritishLibrary.svg_.png",
+      "logo":"graphics/BL.svg",
       "link":"https://www.bl.uk/",
       "level":"primary"
     },
