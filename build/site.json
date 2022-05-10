@@ -13,6 +13,11 @@
       "link":"https://www.ukri.org/councils/ahrc/",
       "logo":"graphics/UKRI_AHR_Council-Logo_Horiz-RGB-white.png",
       "alt":"Arts and Humanities Research Council"
+    },
+    "BL":{
+      "link":"https://www.bl.uk/",
+      "logo":"graphics/BL.svg",
+      "alt":"British Library"
     }
   },
   "extra_js_scripts":[
