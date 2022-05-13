@@ -198,3 +198,6 @@ div.iframe-wrapper iframe {
 span.navbar-text a.float-end:first-of-type {
     margin-left: 0.5rem!important;
 }	
+.card {
+    height: 100%!important; /* Makes all cards on a row the same height */
+}	
