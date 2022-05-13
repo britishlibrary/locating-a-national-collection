@@ -53,6 +53,17 @@
       "image":"graphics/Hollar-1660.jpg",
       "checked":"",
       "link":"https://britishlibrary.github.io/locating-a-national-collection/Hollar_1660.html"
+    },
+    {
+      "groups":[
+        "Choose a Map:"
+      ],
+      "ptitle":"The Travelling Bibles",
+      "stitle":"",
+      "comment":"European journeys of Ceolfrith's Anglo-Saxon bibles",
+      "image":"graphics/The_Travelling_Bibles.png",
+      "checked":"",
+      "link":"https://britishlibrary.github.io/locating-a-national-collection/The_Travelling_Bibles.html"
     }
   ]
 }
