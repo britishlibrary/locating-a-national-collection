@@ -45,6 +45,24 @@
     "content":"<p><b><big>The Travelling Bibles Story Map outlines the journey of three great Bibles commissioned by Ceolfrith (642–716), abbot of the monasteries of Wearmouth and Jarrow.</big></b></p><p>Fragments of one of the bibles are held in the collections of the British Library. The map is the result of a collaboration between LaNC research curator Valeria Vitale and the British Library’s medieval manuscript curators. The intention was to explore the complex biography of a single historical object. Whilst our other maps connect GLAM objects to a single location, the Travelling Bibles Story Map illustrates just how many locations a single object might relate to.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://storymaps.arcgis.com/stories/e3d8ca17f20a40958fcaa535b93f1525\" title=\"The Travelling Bibles\"></iframe></div><figcaption class=\"figure-caption\">StoryMap: The Travelling Bibles.</figcaption></figure><h2>What you can do with the map</h2><p>The map is different in design to the others being a narrative or Story Map. It offers a linear journey or narrative consisting of several maps and accompanying text. Scroll down to learn about the journey of the travelling Bibles, drag the maps and click on the location markers to find more information and links to articles and resources.</p><h2>What was involved in making the map</h2><p>Valeria Vitale used ESRI’s popular and versatile <a target=\"_blank\" href=\"https://storymaps.arcgis.com/\"><i>Story Map</i></a> platform. The platform offers a graphical user interface and hosting solution which was free-to-use at the time. She chose a Story Map Cascade option, writing the text panels and creating the maps using British Library metadata and in-depth research.</p>",
     "content right":""
   },
+  "Mapping Antiquity":{
+    "parent": "maps",
+    "title":"<b>Mapping Antiquity</b>",
+    "content":"<p><b><big>Objects in the Fitzwilliam Museum's Antiquities collection</big></b></p><p>An output from the <a target=\"_blank\" href=\"https://fitzmuseum.cam.ac.uk/research/projects/linking-islands-of-data\">Linking Islands of Data</a> project.</p>",
+    "content right":""
+  },
+  "Mark16 Manuscripts":{
+    "parent": "maps",
+    "title":"<b>Mark16 Manuscripts</b>",
+    "content":"<p><b><big>Manuscripts relating to the last chapter of St Mark's Gospel</big></b></p><p>An output from the <a target=\"_blank\" href=\"https://mark16.sib.swiss/\">Mark16</a> project.</p>",
+    "content right":""
+  },
+  "Mapping the Bronze Age":{
+    "parent": "maps",
+    "title":"<b>Mapping the Bronze Age</b>",
+    "content":"<p><b><big>Visualisation of the National Bronze Age Implement Index</big></b></p><p>Building on collaboration, friendship and trust, the MicroPasts team have worked with the team behind Peripleo to create a map interface for interrogating discovery of material in the <a target=\"_blank\" href=\"https://bronze-age-index.micropasts.org/\">Bronze Age Index</a>.</p>",
+    "content right":""
+  },
   "software":{
     "displayName": "Software",
     "title":"<b>Locating a National Collection - Software</b>",
