@@ -54,13 +54,13 @@
   "Mark16 Manuscripts":{
     "parent": "maps",
     "title":"<b>Mark16 Manuscripts</b>",
-    "content":"<p><b><big>Manuscripts relating to the last chapter of St Mark's Gospel</big></b></p><p>An output from the <a target=\"_blank\" href=\"https://mark16.sib.swiss/\">Mark16</a> project.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://dataviz-mark16.sib.swiss/#/?/?/?/mode=points+facet=language\" title=\"Mark16 Manuscripts: Manuscripts relating to the last chapter of St Mark's Gospel.\"></iframe></div><figcaption class=\"figure-caption\">Mark16 Manuscripts: Manuscripts relating to the last chapter of St Mark's Gospel.</figcaption></figure>",
+    "content":"<p><b><big>Manuscripts relating to the last chapter of St Mark's Gospel</big></b></p><p>An output from the <a target=\"_blank\" href=\"https://mark16.sib.swiss/\">Mark16</a> project.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://dataviz-mark16.sib.swiss/#/?/?/?/mode=points\" title=\"Mark16 Manuscripts: Manuscripts relating to the last chapter of St Mark's Gospel.\"></iframe></div><figcaption class=\"figure-caption\">Mark16 Manuscripts: Manuscripts relating to the last chapter of St Mark's Gospel.</figcaption></figure>",
     "content right":""
   },
   "Mapping the Bronze Age":{
     "parent": "maps",
     "title":"<b>Mapping the Bronze Age</b>",
-    "content":"<p><b><big>Visualisation of the National Bronze Age Implement Index</big></b></p><p>Building on collaboration, friendship and trust, the MicroPasts team have worked with the team behind Peripleo to create a map interface for interrogating discovery of material in the <a target=\"_blank\" href=\"https://bronze-age-index.micropasts.org/\">Bronze Age Index</a>.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://mapping-the-bronze-age.micropasts.org/#/9.24/-1.6395/52.6527/mode=points+facet=object%20type\" title=\"Mapping the Bronze Age: Visualisation of the National Bronze Age Implement Index.\"></iframe></div><figcaption class=\"figure-caption\">Mapping the Bronze Age: Visualisation of the National Bronze Age Implement Index.</figcaption></figure>",
+    "content":"<p><b><big>Visualisation of the National Bronze Age Implement Index</big></b></p><p>Building on collaboration, friendship and trust, the MicroPasts team have worked with the team behind Peripleo to create a map interface for interrogating discovery of material in the <a target=\"_blank\" href=\"https://bronze-age-index.micropasts.org/\">Bronze Age Index</a>.</p><figure class=\"figure\"><div class=\"iframe-wrapper\"><iframe src=\"https://mapping-the-bronze-age.micropasts.org/#/9.24/-1.6395/52.6527/mode=points+facet=object type\" title=\"Mapping the Bronze Age: Visualisation of the National Bronze Age Implement Index.\"></iframe></div><figcaption class=\"figure-caption\">Mapping the Bronze Age: Visualisation of the National Bronze Age Implement Index.</figcaption></figure>",
     "content right":""
   },
   "software":{
