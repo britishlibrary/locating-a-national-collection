@@ -10,7 +10,7 @@
   "maps":{
     "displayName": "Maps",
     "title":"<b>Locating a National Collection - Maps</b>",
-    "content":"A selection of maps created in the course of the project with additional maps subsequently created by other projects using <i>Peripleo</i>.<br/><br/>",
+    "content":"A selection of maps created in the course of the project with additional maps subsequently created by other projects using Peripleo.<br/><br/>",
     "content right": "",
     "class": "list",
     "file": "map-list.json"
