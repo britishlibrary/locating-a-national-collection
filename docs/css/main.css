@@ -194,7 +194,11 @@ div.iframe-wrapper iframe {
     right: 0;
     width: 100%;
     height: 100%;
-    display: none; /* fix for scrolling - iframe must self-expose on loading */
+    /* fix for scrolling - iframe must self-expose on loading */
+    position: absolute; 
+    top: -9999em; 
+    visibility: hidden;
+    /* -end- */
 }
 span.navbar-text a.float-end:first-of-type {
     margin-left: 0.5rem!important;
